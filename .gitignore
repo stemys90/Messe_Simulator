@@ -1,0 +1,3 @@
+Nothing should be ignored in this case, as the changes only include HTML files which are source/config files. The backup HTML file should be tracked in version control rather than ignored.
+
+Output: (empty)
